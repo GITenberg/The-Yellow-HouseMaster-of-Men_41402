@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/594
     wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41402#The-Yellow-HouseMaster-of-Men
 gutenberg_issued: '2012-11-18'
 gutenberg_type: Text
 identifiers:
