@@ -1,0 +1,31 @@
+_repo: The-Yellow-HouseMaster-of-Men_41402
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41402-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '2012-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+title: The Yellow House; Master of Men
+url: http://www.gutenberg.org/ebooks/41402
